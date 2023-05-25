@@ -1,2 +1,2 @@
 # JAVA-JDBC
-School Homework
+School homework
